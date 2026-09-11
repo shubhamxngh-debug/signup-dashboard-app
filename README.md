@@ -8,7 +8,7 @@ No external libraries, no database, no internet connection required — everythi
 
 ## 🎥 Demo
 
-[Demo Video](https://youtu.be/KMHYh2i21FI)
+[Demo Video](https://drive.google.com/file/d/1E7eN2kTkkOxxJqpObaXLZ5nCnkvRgSiN/view?usp=sharing)
 
 ---
 
